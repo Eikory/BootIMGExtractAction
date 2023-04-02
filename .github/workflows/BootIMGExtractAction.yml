@@ -6,7 +6,7 @@ on:
       rom_url:
         description: 'ROM 下载直链'
         required: true
-        default: 'https://mirrorbits.lineageos.org/full/tissot/20230328/lineage-19.1-20230328-nightly-tissot-signed.zip'
+        default: 'https://bigota.d.miui.com/V14.0.23.3.20.DEV/miui_SOCRATES_V14.0.23.3.20.DEV_4d44974eea_13.0.zip'
 
 jobs:
   BootIMGExtractAction:
